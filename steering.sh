@@ -1,5 +1,5 @@
 #! /bin/bash
-
+export USER=lliu466
 export MEMDIR=/dev/shm
 cp /staging/$USER/boltz.tar.gz $MEMDIR/
 
